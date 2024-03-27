@@ -1,8 +1,6 @@
 # AsynchronousWebServer
 If you want to see the code, contact me via email: cristiannastase16@gmail.com
 
-# Asynchronous Web Server
-
 ## Objectives
 
 - Deepening the concepts related to working with sockets.
